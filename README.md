@@ -52,8 +52,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
   <tr>
     <td align="center">
       <a href="https://github.com/InocencioC">
-        <img src="https://avatars.githubusercontent.com/u/34503843?v=4" width="100px;" /><br>
-        
+        <img src="https://avatars.githubusercontent.com/u/34503843?v=4" width="100px;" /><br> 
         <sub>
           <b>Inocêncio Cordeiro</b>
         </sub>
