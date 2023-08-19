@@ -1,5 +1,5 @@
 # YOUR PROJECT TITLE
-#### Video Demo:  <[URL HERE]https://youtu.be/nOpKHyPYon8)>
+#### Video Demo:  <https://youtu.be/nOpKHyPYon8>
 #### Description:
 # DSMETA_JAVA_REACT
 
